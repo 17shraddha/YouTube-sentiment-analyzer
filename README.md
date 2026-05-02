@@ -183,3 +183,14 @@ YouTube-sentiment-analyzer/
 * Add real-time analytics
 * Improve NLP model accuracy
 * Add multilingual support
+
+Some Glimpse of my project 
+<img width="1907" height="877" alt="Picture1" src="https://github.com/user-attachments/assets/6f234c75-a435-4edc-9cd5-86d7b48c893d" />
+<img width="1906" height="872" alt="picture8" src="https://github.com/user-attachments/assets/9582b75f-6f64-4e37-a6d7-8ccb742a5e7a" />
+<img width="1916" height="872" alt="picture7" src="https://github.com/user-attachments/assets/ac70da73-4bdd-46f1-9c63-4d070b31c011" />
+<img width="1906" height="882" alt="picture6" src="https://github.com/user-attachments/assets/8df7a374-478f-4c2a-9ce7-6bfa97ca60b3" />
+<img width="1918" height="872" alt="Picture5" src="https://github.com/user-attachments/assets/95295d75-49c5-49a4-856c-88a48c077a56" />
+<img width="1910" height="872" alt="picture4" src="https://github.com/user-attachments/assets/cb171078-31e0-49bb-a8af-de2943735910" />
+<img width="1897" height="872" alt="Picture3" src="https://github.com/user-attachments/assets/2b03c5d3-c141-4a4c-87d5-3c39c06f05e6" />
+<img width="1903" height="875" alt="Picture2" src="https://github.com/user-attachments/assets/67218615-7333-49df-b42a-18b0e25f6a89" />
+
